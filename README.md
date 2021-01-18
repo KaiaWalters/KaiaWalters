@@ -1,6 +1,6 @@
 ## Ahoy traveler, my name is Kaia!
 
-I'm a freelance developer based in Boston. I have a passion for community advocacy. I aspire to use my skills to build the people around and empower others to do the same. I'm still tinkering with ideas on how to do this sustainably.
+I'm a freelance developer based in Boston. I have a passion for community advocacy. I aspire to use my skills to aid budding commmunity businesses and empower others to do the same. I'm still tinkering with ideas on how to do this sustainably.
 
 ### Current Skill Set 
 
