@@ -19,3 +19,6 @@ Familiar: React | C# | SQL | Android Development
 - Visit me on my home planet: <a href="https://www.kaiawalters.com">Portfolio</a>
 - Or check out my linked in: <a href="https://www.linkedin.com/in/kaiawalters/">LinkedIn</a> 
 - Ya like birds?! See my twitter: <a href="">Twitter</a> 
+
+
+If you read my code please reach out with feedback! :)
