@@ -18,4 +18,4 @@ Familiar: React | C# | SQL | Android Development
 ### Let's stay in touch!
 - Visit me on my home planet: <a href="https://www.kaiawalters.com">Portfolio</a>
 - Or check out my linked in: <a href="https://www.linkedin.com/in/kaiawalters/">LinkedIn</a> 
-- Ya like videos? See my youtube channel: <a href="">Youtube</a> 
+- Ya like birds?! See my twitter: <a href="">Twitter</a> 
