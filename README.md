@@ -9,7 +9,7 @@ My long term goal is to become a strong advocate for change, grow into a dependa
 Fluent: HTML & CSS | JavaScript ES6 | Vue.js | Express | Node.js | Swift/Swift UI <br />
 Familiar: React | C# | SQL | Android Development
 
-### Currently I am working on 
+### ATM I am working on 
 - Websites for local businesses 
 - My mobile development skills 
 - Exploring web and mobile design standards 
