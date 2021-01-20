@@ -6,7 +6,7 @@ My long term goals are to become a strong advocate for change, grow into a depen
 
 ### Current Skill Set 
 
-Fluent: HTML & CSS | JavaScript ES6 | Vue.js | Express | Node.js | Swift/Swift UI <br />
+Fluent: HTML & CSS | Tailwindcss | JavaScript ES6 | Vue.js | Express | Node.js | Swift/Swift UI <br />
 Familiar: React | C# | SQL | Android Development
 
 ### ATM I am working on 
