@@ -12,7 +12,6 @@ Familiar:  Tailwindcss | React | C# | SQL | Android Development
 ### ATM I am working on 
 - Websites for local businesses 
 - My mobile development skills 
-- Exploring web and mobile design standards 
 - Exploring accessibility in mobile and web design 
 
 ### Let's stay in touch!
