@@ -10,6 +10,7 @@ Fluent: HTML & CSS | JavaScript ES6 | Vue.js | Express | Node.js | Swift/Swift U
 Familiar:  Tailwindcss | React | C# | SQL | Android Development
 
 ### ATM I am working on 
+- Data Structures and Algorithms
 - Websites for local businesses 
 - My mobile development skills 
 - Exploring accessibility in mobile and web design 
