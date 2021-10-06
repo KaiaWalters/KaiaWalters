@@ -6,6 +6,8 @@ My long term goals are to become a strong advocate for change, grow into a depen
 
 ### Current Skill Set 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 Fluent: HTML & CSS | JavaScript ES6 | Vue.js | Express | Node.js | Swift/Swift UI | Tailwind CSS <br />
 Familiar: React | C# | SQL | Android Development
 
