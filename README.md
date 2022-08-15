@@ -8,6 +8,7 @@ My long term goals are to become a strong advocate for change, grow into a depen
 
 Fluent: HTML & CSS | JavaScript ES6 | Vue.js | Express | Node.js | Swift/Swift UI | Tailwind CSS | React | React-Native <br />
 Familiar:  C# | SQL | Android Development
+Tools: MongoDB | Postman and Insomnia | Azure Dev Ops | Netlify | Heroku | Figma 
 
 ### ATM I am working on 
 - Data Structures and Algorithms
