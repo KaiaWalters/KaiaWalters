@@ -13,7 +13,7 @@ Tools and Libraries: MongoDB | Postman and Insomnia | AWS | Netlify | Material U
 ### ATM I am working on 
 - Learning Firebase 🔥
 - Exploring accessibility in web design :accessibility:
-- Honing my React development skills 🧑‍🏭
+- Honing my dev ops and cloud service skills 🧑‍🏭
 
 ### Let's stay in touch!
 - Visit me on my home planet: <a href="https://www.kaiawalters.com">Portfolio</a>
