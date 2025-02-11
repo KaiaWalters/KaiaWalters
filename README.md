@@ -15,6 +15,7 @@ Tools and Libraries: MongoDB | Postman and Insomnia | AWS | Netlify | Material U
 - Bringing more complexity to my back end projects with AI prompts
 - Honing my dev ops and cloud service skills 🧑‍🏭
 - Applying accessible design to my projects
+- Improving my chess game 
 
 ### Let's stay in touch!
 - Visit me on my home planet: <a href="https://www.kaiawalters.com">Portfolio(under construction)</a>
