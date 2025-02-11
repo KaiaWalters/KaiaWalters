@@ -1,6 +1,6 @@
-## Ahoy traveler! My name is Kaia!
+## Kaia Walters, Software Engineer 
 
-I'm a full stack software engineer based in Boston, I have a passion for community advocacy. I aspire to use my skills to aid budding commmunity organizations and empower others to do the same.
+I'm a full stack software engineer born and based in Boston, MA. I started my career in software development after taking a woman an gender studies class in college. There I learned about the algorithmic justice league, the power that technology has to aid or harm people, and the role that software developers have in bulding the future. I was inspired to learn how to code from there. Since then, I've had the provlege of working on projects aimed at imporving the human experience and making positive impacts on the world at large. I'm currently enrolled in the Resilient Coders Ascend Program and am eager to learn more baout how AI can responsibly and effectively be applied to projects. Looking forward to what's next!
 
 My long term goals are to become a strong advocate for change, grow into a dependable elder, and make the ancestors proud.
 
