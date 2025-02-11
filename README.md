@@ -11,7 +11,7 @@ Familiar:  C# | SQL | Android Development <br/>
 Tools and Libraries: MongoDB | Postman and Insomnia | AWS | Netlify | Material UI | Figma 
 
 ### ATM I am working on 
-- Building some bangin' React Projects 🔥
+- Building some bangin' React projects 🔥
 - Bringing more complexity to my back end projects with AI prompts
 - Honing my dev ops and cloud service skills 🧑‍🏭
 - Applying accessible design to my projects
