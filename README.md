@@ -11,11 +11,12 @@ Familiar:  C# | SQL | Android Development <br/>
 Tools and Libraries: MongoDB | Postman and Insomnia | AWS | Netlify | Material UI | Figma 
 
 ### ATM I am working on 
-- Learning Firebase 🔥
-- Exploring accessibility in web design :accessibility:
+- Building some bad React Projects 🔥
+- Bringing more complexity to my back end projects with AI prompts
 - Honing my dev ops and cloud service skills 🧑‍🏭
+- Applying accessible design to my projects
 
 ### Let's stay in touch!
-- Visit me on my home planet: <a href="https://www.kaiawalters.com">Portfolio</a>
+- Visit me on my home planet: <a href="https://www.kaiawalters.com">Portfolio(under construction)</a>
 - Or check out my linked in: <a href="https://www.linkedin.com/in/kaiawalters/">LinkedIn</a> 
-- Ya like birds?! See my twitter: <a href="https://twitter.com/KaiaThrivntech">Twitter</a> 
+- Birds aren't real anyways, See my bluesky: <a href="https://bsky.app/profile/kaiaclackskeys.bsky.social">BlueSky</a> 
