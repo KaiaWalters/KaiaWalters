@@ -20,4 +20,6 @@ Tools and Libraries: MongoDB | Postman and Insomnia | AWS | Netlify | Material U
 ### Let's stay in touch!
 - Visit me on my home planet: <a href="https://www.kaiawalters.com">Portfolio(under construction)</a>
 - Or check out my linked in: <a href="https://www.linkedin.com/in/kaiawalters/">LinkedIn</a> 
-- Birds aren't real anyways, See my bluesky: <a href="https://bsky.app/profile/kaiaclackskeys.bsky.social">BlueSky</a>. I mostly post music here. I am working on engaging with social media in a healthy way, this is how I'm chosing to start. 
+- Birds aren't real anyways, See my bluesky: <a href="https://bsky.app/profile/kaiaclackskeys.bsky.social">BlueSky*</a>. 
+
+*I mostly post music here. I am working on engaging with social media in a healthy way, this is how I'm chosing to start. 
