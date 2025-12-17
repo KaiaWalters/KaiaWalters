@@ -18,7 +18,7 @@ Tools and Libraries: MongoDB | Postman and Insomnia | AWS | Netlify | Material U
 - Improving my chess game 
 
 ### Let's stay in touch!
-- Visit me on my home planet: <a href="https://www.kaiawalters.com">Portfolio(under construction)</a>
+- Visit me on my home planet: <a href="https://kaiawalters.com/">Portfolio</a>
 - Or check out my linked in: <a href="https://www.linkedin.com/in/kaiawalters/">LinkedIn</a> 
 - Birds aren't real anyways, See my bluesky: <a href="https://bsky.app/profile/kaiaclackskeys.bsky.social">BlueSky*</a>. 
 
