@@ -8,7 +8,7 @@ My long term goals are to become a strong advocate for change, grow into a depen
 
 Fluent: HTML & CSS | JavaScript ES6 | Typescript | React.js | Express | Node.js | Tailwind CSS | Next.js | React-Native <br />
 Familiar:  Vue | Nuxt | SVG | C# | SQL | Android Development <br/>
-Tools and Libraries: MongoDB | Postman and Insomnia | AWS | Netlify | Material UI | Penpot | Cursor 
+Tools and Libraries: MongoDB | Postman and Insomnia | AWS | Netlify | Vercel | Linear | Material UI | Penpot | Cursor 
 
 ### ATM I am working on 
 - Building some bangin' React projects 🔥
