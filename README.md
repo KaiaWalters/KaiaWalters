@@ -1,6 +1,10 @@
 ## Kaia Walters, Software Engineer 
 
-I'm a full stack software engineer born and based in Boston, MA. I started my career in software development after taking a Woman and Gender studies class in college. I've had the privlege of working on projects aimed at improving the human experience and making positive impacts on the world at large. I'm currently enrolled in the Resilient Coders Ascend Program and am eager to learn more about how AI can responsibly and effectively be applied to projects. I am looking forward to what's next!
+I started my career in software development after taking a Woman and Gender studies class in college.
+
+I'm currently seeking a new role on collaborative teams creatively using code to simplify processes.
+
+I am looking forward to what's next!
 
 My long term goals are to become a strong advocate for change, grow into a dependable elder, and make the ancestors proud.
 
@@ -20,6 +24,3 @@ Tools and Libraries: MongoDB | Postman and Insomnia | AWS | Netlify | Vercel | L
 ### Let's stay in touch!
 - Visit me on my home planet: <a href="https://kaiawalters.com/">Portfolio</a>
 - Or check out my linked in: <a href="https://www.linkedin.com/in/kaiawalters/">LinkedIn</a> 
-- Birds aren't real anyways, See my bluesky: <a href="https://bsky.app/profile/kaiaclackskeys.bsky.social">BlueSky*</a>. 
-
-*I mostly post music here. I am working on engaging with social media in a healthy way, this is how I'm chosing to start. 
