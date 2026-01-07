@@ -1,13 +1,13 @@
 ## Kaia Walters, Software Engineer 
 
-I'm a full stack software engineer born and based in Boston, MA. I started my career in software development after taking a Woman and Gender studies class in college. I've had the privlege of working on projects aimed at improving the human experience and making positive impacts on the world at large. I'm currently enrolled in the Resilient Coders Ascend Program and am eager to learn more baout how AI can responsibly and effectively be applied to projects. I am looking forward to what's next!
+I'm a full stack software engineer born and based in Boston, MA. I started my career in software development after taking a Woman and Gender studies class in college. I've had the privlege of working on projects aimed at improving the human experience and making positive impacts on the world at large. I'm currently enrolled in the Resilient Coders Ascend Program and am eager to learn more about how AI can responsibly and effectively be applied to projects. I am looking forward to what's next!
 
 My long term goals are to become a strong advocate for change, grow into a dependable elder, and make the ancestors proud.
 
 ### Current Skill Set 
 
 Fluent: HTML & CSS | JavaScript ES6 | Typescript | React.js | Express | Node.js | Tailwind CSS | Next.js | React-Native <br />
-Familiar:  C# | SQL | Android Development <br/>
+Familiar:  Vue | Nuxt | C# | SQL | Android Development <br/>
 Tools and Libraries: MongoDB | Postman and Insomnia | AWS | Netlify | Material UI | Figma 
 
 ### ATM I am working on 
